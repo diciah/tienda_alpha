@@ -3,77 +3,35 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tienda Online</title>
-    <link rel="stylesheet" href="styles.css">
+    <title>Catálogo de Licores y Vodkas Premium</title> <link rel="stylesheet" href="css/styles.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
-</head>
+    <meta name="description" content="Descubre nuestra selección de vodkas y licores premium. Catálogo online de bebidas de alta calidad."> <meta name="keywords" content="vodka, licores, bebidas, destilados, premium, tienda online, comprar bebidas, new style, san vicente"> <meta name="author" content="Tu Nombre"> </head>
 <body>
-    <!-- Header -->
     <header>
         <nav>
-            <h1>Tienda Online</h1>
-            <ul>
+            <h1>Licores y Destilados</h1> <ul>
                 <li><a href="#inicio">Inicio</a></li>
                 <li><a href="#productos">Productos</a></li>
                 <li><a href="#contacto">Contacto</a></li>
             </ul>
+            <button id="cart-btn" aria-label="Ver carrito">
+                🛒 <span id="cart-count">0</span>
+            </button>
         </nav>
     </header>
 
-    <!-- Main -->
     <main>
-        <!-- Sección Inicio -->
         <section id="inicio">
-            <h2>Bienvenidos a Nuestra Tienda</h2>
-            <p>Descubre los mejores productos con calidad garantizada.</p>
-        </section>
+            <h2>Bienvenidos a Nuestro Catálogo de Bebidas</h2> <p>Explora nuestra exclusiva selección de licores y vodkas premium, cuidadosamente elegidos para deleitar tu paladar.</p> </section>
 
-        <!-- Sección Productos -->
         <section id="productos">
             <h2>Nuestros Productos</h2>
             <div class="product-container">
-                <div class="product-card">
-                    <img src="https://images.unsplash.com/photo-1523275335684-37898b6baf30" alt="Producto 1">
-                    <h3>Reloj Elegante</h3>
-                    <p>Un reloj moderno para cualquier ocasión.</p>
-                    <span>$49.99</span>
                 </div>
-                <div class="product-card">
-                    <img src="https://images.unsplash.com/photo-1542291026-7eec264c27ff" alt="Producto 2">
-                    <h3>Zapatillas Deportivas</h3>
-                    <p>Comodidad y estilo para tus entrenamientos.</p>
-                    <span>$79.99</span>
-                </div>
-                <div class="product-card">
-                    <img src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e" alt="Producto 3">
-                    <h3>Auriculares Inalámbricos</h3>
-                    <p>Disfruta de tu música sin cables.</p>
-                    <span>$29.99</span>
-                </div>
-                <div class="product-card">
-                    <img src="https://images.unsplash.com/photo-1526170375885-2d8f3bc9d697" alt="Producto 4">
-                    <h3>Camisa Casual</h3>
-                    <p>Elegante y cómoda para el día a día.</p>
-                    <span>$39.99</span>
-                </div>
-                <div class="product-card">
-                    <img src="https://images.unsplash.com/photo-1572635196237-14b3f281503f" alt="Producto 5">
-                    <h3>Gafas de Sol</h3>
-                    <p>Protección y estilo en un solo producto.</p>
-                    <span>$19.99</span>
-                </div>
-                <div class="product-card">
-                    <img src="https://images.unsplash.com/photo-1543163521-1bf539c55dd2" alt="Producto 6">
-                    <h3>Bolso de Mano</h3>
-                    <p>Perfecto para llevar tus esenciales.</p>
-                    <span>$59.99</span>
-                </div>
-            </div>
         </section>
 
-        <!-- Sección Reseñas -->
         <section id="reseñas">
             <h2>Reseñas de Clientes</h2>
             <div class="review-container">
@@ -90,7 +48,6 @@
             </div>
         </section>
 
-        <!-- Sección Contacto -->
         <section id="contacto">
             <h2>Contáctanos</h2>
             <form action="https://formspree.io/f/xyzwbwer" method="POST">
@@ -109,11 +66,17 @@
                 <button type="submit">Enviar</button>
             </form>
         </section>
+
+        <section id="cart-modal" class="hidden" tabindex="-1" aria-label="Carrito de compras">
+            <div id="cart-items"></div>
+            <div id="cart-total"></div>
+            <button id="close-cart">Cerrar</button>
+        </section>
     </main>
 
-    <!-- Footer -->
     <footer>
         <p>&copy; 2025 Tienda Online. Todos los derechos reservados.</p>
     </footer>
-</body>
+
+    <script src="js/script.js"></script> </body>
 </html>
