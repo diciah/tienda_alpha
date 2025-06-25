@@ -5,7 +5,7 @@
     "brand": "NEW STYLE",
     "type": "VODKA",
     "description": "Vodka original de la marca NEW STYLE.",
-    "price": 0.0,
+    "price": 1500,
     "image": "https://i.postimg.cc/4dQzmxMR/vodka-original.jpg"
   },
   {
@@ -14,7 +14,7 @@
     "brand": "NEW STYLE",
     "type": "VODKA",
     "description": "Vodka con sabor a cítricos de la marca NEW STYLE.",
-    "price": 0.0,
+    "price": 1500,
     "image": "https://i.postimg.cc/cCTM5LMB/vodka-citrus.jpg"
   },
   {
@@ -23,7 +23,7 @@
     "brand": "NEW STYLE",
     "type": "VODKA",
     "description": "Vodka con sabor a frutos rojos de la marca NEW STYLE.",
-    "price": 0.0,
+    "price": 1500,
     "image": "https://i.postimg.cc/qMMG624b/vodka-frutos-rojos.jpg"
   },
   {
@@ -32,7 +32,7 @@
     "brand": "NEW STYLE",
     "type": "VODKA",
     "description": "Vodka con sabor a maracuyá de la marca NEW STYLE.",
-    "price": 0.0,
+    "price": 1500,
     "image": "https://i.postimg.cc/wj1c0HtD/vodka-maracuya.jpg"
   },
   {
@@ -41,7 +41,7 @@
     "brand": "NEW STYLE",
     "type": "VODKA",
     "description": "Vodka con sabor a melón de la marca NEW STYLE.",
-    "price": 0.0,
+    "price": 1500,
     "image": "https://i.postimg.cc/13b0dT62/vodka-melon.jpg"
   },
   {
@@ -50,7 +50,7 @@
     "brand": "NEW STYLE",
     "type": "VODKA",
     "description": "Vodka con sabor a pera de la marca NEW STYLE.",
-    "price": 0.0,
+    "price": 1500,
     "image": "https://i.postimg.cc/W3vGNk57/vodka-pera.jpg"
   },
   {
@@ -59,7 +59,7 @@
     "brand": "NEW STYLE",
     "type": "VODKA",
     "description": "Vodka con sabor a manzana verde de la marca NEW STYLE.",
-    "price": 0.0,
+    "price": 1500,
     "image": "https://i.postimg.cc/DyjPrmz2/vodka-manzana.jpg"
   },
   {
@@ -68,7 +68,7 @@
     "brand": "NEW STYLE",
     "type": "VODKA",
     "description": "Vodka con sabor a sandía de la marca NEW STYLE.",
-    "price": 0.0,
+    "price": 1500,
     "image": "https://i.postimg.cc/2yjnvfRb/vodka-sandia.jpg"
   },
   {
@@ -77,7 +77,7 @@
     "brand": "NEW STYLE",
     "type": "VODKA",
     "description": "Vodka con sabor a uva y arándano de la marca NEW STYLE.",
-    "price": 0.0,
+    "price": 1500,
     "image": "https://i.postimg.cc/nrnGkD7L/vodka-arandanos-uva.jpg"
   },
   {
@@ -86,7 +86,7 @@
     "brand": "NEW STYLE",
     "type": "LICOR",
     "description": "Licor con sabor a piña colada de la marca NEW STYLE.",
-    "price": 0.0,
+    "price": 1500,
     "image": "https://i.postimg.cc/xT06GWyP/pinia-colada.jpg"
   },
   {
@@ -95,7 +95,7 @@
     "brand": "NEW STYLE",
     "type": "LICOR",
     "description": "Licor con sabor a chocolate de la marca NEW STYLE.",
-    "price": 0.0,
+    "price": 1500,
     "image": "https://i.postimg.cc/d01MWh24/chocolate.jpg"
   },
   {
@@ -104,7 +104,7 @@
     "brand": "NEW STYLE",
     "type": "LICOR",
     "description": "Licor con sabor a dulce de leche de la marca NEW STYLE.",
-    "price": 0.0,
+    "price": 1500,
     "image": "https://i.postimg.cc/B6Lr0RwF/ddl.jpg"
   },
   {
@@ -113,7 +113,7 @@
     "brand": "NEW STYLE",
     "type": "LICOR",
     "description": "Licor con sabor a café y cognac de la marca NEW STYLE.",
-    "price": 0.0,
+    "price": 1500,
     "image": "https://i.postimg.cc/MpzJQPvk/cafe-cognac.jpg"
   },
   {
@@ -122,7 +122,7 @@
     "brand": "NEW STYLE",
     "type": "LICOR",
     "description": "Licor con sabor a menta de la marca NEW STYLE.",
-    "price": 0.0,
+    "price": 1500,
     "image": "https://i.postimg.cc/wMk08VHJ/menta.jpg"
   },
   {
@@ -131,7 +131,7 @@
     "brand": "NEW STYLE",
     "type": "LICOR",
     "description": "Licor Blue Curaçao de la marca NEW STYLE.",
-    "price": 0.0,
+    "price": 1500,
     "image": "https://i.postimg.cc/xTD20TQ1/blue-curacao.jpg"
   },
   {
@@ -140,7 +140,7 @@
     "brand": "NEW STYLE",
     "type": "LICOR",
     "description": "Licor con sabor a melón de la marca NEW STYLE.",
-    "price": 0.0,
+    "price": 1500,
     "image": "https://i.postimg.cc/26h0TYK0/melon.jpg"
   },
   {
@@ -149,7 +149,7 @@
     "brand": "NEW STYLE",
     "type": "LICOR",
     "description": "Licor con sabor a frutilla de la marca NEW STYLE.",
-    "price": 0.0,
+    "price": 1500,
     "image": "https://i.postimg.cc/Fsg2NyGT/frutilla.jpg"
   },
   {
@@ -158,7 +158,7 @@
     "brand": "SAN VICENTE",
     "type": "LICOR",
     "description": "Licor de anís de la marca SAN VICENTE.",
-    "price": 0.0,
+    "price": 1500,
     "image": "https://i.postimg.cc/6QjKwrWk/anis.jpg"
   }
 ]
