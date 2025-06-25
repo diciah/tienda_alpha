@@ -3,4 +3,6 @@ Este proyecto es una página web de una tienda online que muestra productos, res
 
 link netlify: 
 
-https://tiendatest.netlify.app/
+Pre entrega: https://tiendatest.netlify.app/
+
+Final: https://diciah.github.io/tienda_alpha/
